@@ -1,0 +1,8 @@
+.venv/
+.gitignore/
+results/
+saved_model_interrupt/
+saved_model/
+dataset/
+.env/
+scripts/__pycache__/
