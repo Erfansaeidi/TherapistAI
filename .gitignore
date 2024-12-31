@@ -1,0 +1,8 @@
+scripts/__pycache__/preprocess.cpython-312.pyc/
+saved_model_interrupt/
+saved_model/
+results/
+models/
+dataset/
+.venv/
+.env/
